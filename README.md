@@ -7,11 +7,17 @@
 # Kurulum
 
 • Adım 1: İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
+
 • Adım 2: Bu projeyi zip halinde indir.
+
 • Adım 3: Herhangi bir klasöre zip dosyasını çıkart.
+
 • Adım 4: `ayarlar.json` dosyasındaki gerekli bilgileri doldurun.
+
 • Adım 5: Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
+
 • Adım 6: `npm install` yazarak tüm modülleri kur.
+
 • Adım 7: Kurulum bittikten sonra `node can.js` yaz ve botu başlat.
 
 **NOTE: Botun intentlerini açmayı unutmayın! Eğer açmayı bilmiyorsanız [Buraya Tıklayın.](https://fhoozy.is-a-cool-femboy.xyz/5t42EhZhj)**
