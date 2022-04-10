@@ -1,0 +1,29 @@
+{
+  "name": "can-stats",
+  "version": "1.0.0",
+  "description": "Fhoozy#3680 | Can",
+  "main": "can.js",
+  "scripts": {
+    "watch": "nodemon can.js",
+    "start": "node can.js"
+  },
+  "dependencies": {
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.1.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "chimp",
+    "chimp#0110"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
