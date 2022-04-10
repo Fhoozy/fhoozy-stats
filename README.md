@@ -3,10 +3,10 @@
 • Fhoozy Stats, herhangi bir yerde paylaşılması dahilinde işlem yapılacaktır!                                                                                           
 • Haricinde istediğiniz yerde kullanabilirsiniz.
 
-   • [Kurulum](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#kurulum)
-   • [İçerikler](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#içerikler)
-   • [FAQ](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#içerikler)
-   • [İletişim](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#içerikler)
+   • [Kurulum](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#kurulum)                                                                                     
+   • [İçerikler](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#i%CC%87%C3%A7erikler)                                                                       
+   • [FAQ](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#faq)                                                                                             
+   • [İletişim](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#i%CC%87leti%C5%9Fim)                                                                         
 # Kurulum
 
 • Adım 1: İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.                                                                                             
