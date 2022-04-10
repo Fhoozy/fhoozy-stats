@@ -41,3 +41,8 @@ A: Evet fakat yaparken bana yardım aldığım kişiler de var.
 
 Q: Hatalarla ilgileniyor musun?                                                                                                                                         
 A: Proje içindeki hatalarla ilgileniyorum. Eğer bir hata ile karşılaşırsanız discorddan benimle iletişime geçebilirsiniz.
+
+# İletişim
+
+• [Discord Profilim](https://discord.com/users/483657756310765591)
+• [Instagram Adresim](https://www.instagram.com/whyahmtt/)
