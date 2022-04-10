@@ -36,14 +36,14 @@
 
 • SSS (Sıkca Sorulan Sorular)
 
-Q: Altyapıyı geliştirilmeye devam edilecek mi?
+Q: Altyapıyı geliştirilmeye devam edilecek mi?                                                                                                                         
 A: Buna devam etmektense yeni birisine başlamayı tercih ediyorum ama geliştirirsem buraya ekleyeceğimdir.
 
-Q: İstek herhangi bir şey ekliyor musun?
+Q: İstek herhangi bir şey ekliyor musun?                                                                                                                               
 A: Eğer istediğin şey hoşuma giderse eklemeye çalışırım.
 
-Q: Altyapı tamamen sanamı ait?
+Q: Altyapı tamamen sanamı ait?                                                                                                                                         
 A: Evet fakat yaparken bana yardım aldığım kişiler de var.
 
-Q: Hatalarla ilgileniyor musun?
+Q: Hatalarla ilgileniyor musun?                                                                                                                                         
 A: Proje içindeki hatalarla ilgileniyorum. Eğer bir hata ile karşılaşırsanız discorddan benimle iletişime geçebilirsiniz.
