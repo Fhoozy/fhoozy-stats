@@ -3,6 +3,8 @@
 • Fhoozy Stats, herhangi bir yerde paylaşılması dahilinde işlem yapılacaktır!                                                                                           
 • Haricinde istediğiniz yerde kullanabilirsiniz.
 
+# Kategoriler
+
    • [Kurulum](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#kurulum)                                                                                     
    • [İçerikler](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#i%CC%87%C3%A7erikler)                                                                       
    • [FAQ](https://github.com/Fhoozy/fhoozy-stats/blob/main/README.md#faq)                                                                                             
